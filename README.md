@@ -1,1 +1,1 @@
-# face-recognition-javascript
+# Face Recognition Javascript
