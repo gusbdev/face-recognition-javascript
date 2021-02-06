@@ -8,3 +8,5 @@ Using the API https://github.com/justadudewhohacks/face-api.js
 - Using Face API to detect faces in real time
 - Drawing facial landmarks in real time
 - Determining emotion through facial expressions in real time
+
+## How to run
